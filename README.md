@@ -2,8 +2,8 @@
 
 # Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
 ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE: 26.04.2025                                                                           
-### REGISTER NUMBER : 212222040070
+### DATE: 28.04.2025                                                                           
+### REGISTER NUMBER : 212222040022
  
 ### Aim:
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
@@ -38,11 +38,14 @@ Use Case: [Summarization / Technical Q&A / Creative Writing]
 Evaluation Criteria: Accuracy, Response Time, UX (User Experience)
 #### Prompt 1(Summarization): 
 "Summarize the following passage in 2-3 sentences:
-Artificial Intelligence (AI) has rapidly transformed various industries, from healthcare to finance. In healthcare, AI-powered diagnostic tools are improving early disease detection, reducing errors, and assisting doctors in making data-driven decisions. Similarly, in finance, AI-driven algorithms optimize trading strategies, detect fraudulent activities, and enhance customer experiences through personalized services. However, ethical concerns such as bias in AI models, data privacy, and job displacement continue to be challenges that need careful regulation. Experts emphasize the importance of transparency, accountability, and continuous evaluation to ensure AI benefits society without unintended consequences."
+      Anime derived from a shortening of English animation is a hand-drawn and computer-generated animation originating from Japan. Outside Japan and in English, anime refers specifically to animation produced in Japan.However, anime, in Japan and in Japanese, describes all animated works, regardless of style or origin. Many works of animation with a similar style to Japanese animation are also produced outside Japan. Video games sometimes also feature themes and art styles that are sometimes labelled as anime.
+The earliest commercial Japanese animation dates to 1917. A characteristic art style emerged in the 1960s with the works of cartoonist Osamu Tezuka and spread in the following decades, developing a large domestic audience. Anime is distributed theatrically, through television broadcasts, directly to home media, and over the Internet. In addition to original works, anime are often adaptations of Japanese comics (manga), light novels, or video games. It is classified into numerous genres targeting various broad and niche audiences.
 #### Prompt 2(Technical Q&A): 
-Briefly explain how AI helps in fraud detection and its potential risks (limit: 3 sentences).
+Briefly explain how Anime are portraits in modern world and the goods and risk(limit: 3 sentences).
 #### Prompt 3(Creative Writing): 
-Write a short paragraph (maximum 3 sentences) from the perspective of an AI struggling with emotional intelligence.
+Write a short paragraph (maximum 3 sentences) from the perspective of an anime character who struggles to understand or express their emotions.
+
+
 
 #### Response Analysis:
 ### ChatGPT Evaluation
@@ -92,70 +95,109 @@ UX (User Experience)	4 / 5
 
 Overall Score (Total)	11 / 15
 
+### Cohere Evaluation
+
+Criteria Rating (1-5)
+
+Accuracy 4/5
+
+Response Time 4/5
+
+UX (User Experience)  4/5
+
+Overall Score (Total) 12/15
+
 ### Final Winner
-#### Best Overall AI: Claude
+#### Best Overall AI: Cohere Command
 Reason: The User Experience was good and colour full compared to others
 
 ### AI outputs:
 #### 1: Prompt 1(Summarization): "Summarize the following passage in 2-3 sentences:
-Artificial Intelligence (AI) has rapidly transformed various industries, from healthcare to finance. In healthcare, AI-powered diagnostic tools are improving early disease detection, reducing errors, and assisting doctors in making data-driven decisions. Similarly, in finance, AI-driven algorithms optimize trading strategies, detect fraudulent activities, and enhance customer experiences through personalized services. However, ethical concerns such as bias in AI models, data privacy, and job displacement continue to be challenges that need careful regulation. Experts emphasize the importance of transparency, accountability, and continuous evaluation to ensure AI benefits society without unintended consequences."
+Anime derived from a shortening of English animation is a hand-drawn and computer-generated animation originating from Japan. Outside Japan and in English, anime refers specifically to animation produced in Japan.However, anime, in Japan and in Japanese, describes all animated works, regardless of style or origin. Many works of animation with a similar style to Japanese animation are also produced outside Japan. Video games sometimes also feature themes and art styles that are sometimes labelled as anime.
+The earliest commercial Japanese animation dates to 1917. A characteristic art style emerged in the 1960s with the works of cartoonist Osamu Tezuka and spread in the following decades, developing a large domestic audience. Anime is distributed theatrically, through television broadcasts, directly to home media, and over the Internet. In addition to original works, anime are often adaptations of Japanese comics (manga), light novels, or video games. It is classified into numerous genres targeting various broad and niche audiences.
 
 Chat CPT:
 
-![image](https://github.com/user-attachments/assets/c5034fb1-26f4-4308-991d-c1e7e79f6741)
+<img width="800" alt="Screenshot 2025-04-29 at 8 23 02 PM" src="https://github.com/user-attachments/assets/16648aed-05bd-493e-8366-0a6ccdbd0d73" />
+
 
 Claude:
 
-![image](https://github.com/user-attachments/assets/f9fb0e67-053c-475e-b5b0-39f2a1128b32)
+<img width="731" alt="Screenshot 2025-04-29 at 8 23 34 PM" src="https://github.com/user-attachments/assets/e24036a8-dea8-4ead-8135-440dd278221c" />
+
 
 Gemini:
 
-![image](https://github.com/user-attachments/assets/eb2065b8-dc4e-446a-b866-9bbc67ffca07)
+<img width="804" alt="Screenshot 2025-04-29 at 8 23 56 PM" src="https://github.com/user-attachments/assets/17313352-cf8d-459f-b3c4-ea7ed0c725aa" />
+
 
 Meta:
 
-![image](https://github.com/user-attachments/assets/9e386b50-185b-4f25-8fc9-514ac00aaa1e)
 
-#### 2: Prompt 2(Technical Q&A): Briefly explain how AI helps in fraud detection and its potential risks (limit: 3 sentences).
+<img width="658" alt="Screenshot 2025-04-29 at 8 24 19 PM" src="https://github.com/user-attachments/assets/8cfa5dca-c7d7-490f-b7a8-6306ac978e4f" />
+
+Cohere Command:
+<img width="959" alt="Screenshot 2025-04-29 at 8 24 55 PM" src="https://github.com/user-attachments/assets/d0b1a0ec-8dba-4df2-878b-72ed46233c6f" />
+
+
+
+#### 2: Prompt 2(Technical Q&A): Briefly explain how Anime are portraits in modern world and the goods and risk(limit: 3 sentences).
 
 Chat GPT:
 
-![image](https://github.com/user-attachments/assets/3e0d9856-e6ac-41d0-9d9a-c3d5b87a7ce8)
+<img width="816" alt="Screenshot 2025-04-29 at 8 25 50 PM" src="https://github.com/user-attachments/assets/07b93045-c351-427a-8bd0-4166695dbc3b" />
+
  
 Claude:
 
-![image](https://github.com/user-attachments/assets/f85974f5-4f83-431f-bf82-7e5e87ab814a)
+<img width="690" alt="Screenshot 2025-04-29 at 8 26 08 PM" src="https://github.com/user-attachments/assets/fd5478cd-5ac7-4599-bec3-e90c576c04e5" />
+
 
 Gemini:
 
-![image](https://github.com/user-attachments/assets/16615e6e-f209-4ff3-ae3e-9f6dd3125b93)
+<img width="815" alt="Screenshot 2025-04-29 at 8 26 29 PM" src="https://github.com/user-attachments/assets/2c7f47b0-2c12-4989-9bac-841b95626caa" />
+
  
 Meta:
+<img width="661" alt="Screenshot 2025-04-29 at 8 26 53 PM" src="https://github.com/user-attachments/assets/446b96bc-ea71-4f2b-8b9d-7008a9027419" />
 
-![image](https://github.com/user-attachments/assets/7241a433-2e52-4647-923c-02b4360bdee5)
+Cohere Command:
 
-#### 3: Prompt 3(Creative Writing): Write a short paragraph (maximum 3 sentences) from the perspective of an AI struggling with emotional intelligence.
+<img width="952" alt="Screenshot 2025-04-29 at 8 27 20 PM" src="https://github.com/user-attachments/assets/414496ad-be22-425a-bf68-df8cd6652f47" />
 
+
+
+
+#### 3: Prompt 3(Creative Writing): Write a short paragraph (maximum 3 sentences) from the perspective of an anime character who struggles to understand or express their emotions.
 Chat GPT:
 
-![image](https://github.com/user-attachments/assets/9c53f77f-486e-463a-a1d4-0192724ef531)
+<img width="838" alt="Screenshot 2025-04-29 at 8 28 00 PM" src="https://github.com/user-attachments/assets/7b1d9384-7f3e-40fd-9772-f6646f375e77" />
+
  
 Claude:
 
-![image](https://github.com/user-attachments/assets/e6bfd27e-e7f3-4784-bbc4-f85f00ca0019)
+<img width="769" alt="Screenshot 2025-04-29 at 8 28 18 PM" src="https://github.com/user-attachments/assets/583fff27-7f9b-41fa-be0f-b254305ec7b6" />
+
 
 Gemini:
 
-![image](https://github.com/user-attachments/assets/e97f0cad-b819-4d24-8ae5-834a85a2e1db)
+<img width="842" alt="Screenshot 2025-04-29 at 8 28 36 PM" src="https://github.com/user-attachments/assets/24622dea-9c2d-4e48-82f1-7c0043845a4e" />
+
 
 Meta:
 
-![image](https://github.com/user-attachments/assets/10e76f4c-5377-4525-9ec9-398a58d28a24)
+<img width="659" alt="Screenshot 2025-04-29 at 8 30 05 PM" src="https://github.com/user-attachments/assets/3eee7b3f-3629-4be6-a221-1e95f79acfaf" />
+
+Cohere Command:
+
+<img width="911" alt="Screenshot 2025-04-29 at 8 30 29 PM" src="https://github.com/user-attachments/assets/975fe5a1-c437-467a-a6f5-2f12968db06a" />
+
+
 
  
 ### Conclusion & Insights:
-### Best Performing AI:  Claude
-Claude emerged as the best-performing AI platform in this evaluation, offering the most balanced experience across accuracy, response time, and user experience. While ChatGPT and Meta showed strong accuracy, Claude’s quick responses and smooth, user-friendly interface gave it the edge overall. Gemini performed modestly, with room for improvement in both speed and content quality. Ultimately, Claude is recommended for users seeking an all-around reliable AI, while those prioritizing technical accuracy might prefer ChatGPT or Meta.
+### Best Performing AI:  Cohere Command
+Cohere Command emerged as the best-performing AI platform in this evaluation, offering the most balanced experience across emotional depth, expression, and user engagement. While ChatGPT and Meta demonstrated strong technical accuracy, Cohere Command’s vivid emotional articulation and human-like expression gave it the edge overall. Gemini performed modestly, with room to grow in both nuance and delivery. Ultimately, Cohere Command is recommended for users seeking emotionally rich and relatable AI responses, while those prioritizing factual precision might prefer ChatGPT or Meta.
 
 ### Result:
 Thus the Prompting tools are executed and analysed sucessfully .
